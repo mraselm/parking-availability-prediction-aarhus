@@ -4,7 +4,7 @@ This project predicts real-time parking occupancy levels using live sensor data,
 
 ## 📂 Project Files
 
-- `parking_prediction.ipynb` – Main notebook for merging datasets and running predictive models
+- `DSP_PPO_API.ipynb` – Main notebook for merging datasets and running predictive models
 - `weather_data.csv` – Hourly weather data with classified conditions
 - `traffic_congestion.csv` – Hourly traffic congestion data
 - `merged_dataset_preview.png` – Sample of the final merged dataset
