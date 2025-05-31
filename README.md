@@ -8,8 +8,8 @@ This project predicts real-time parking occupancy levels using live sensor data,
 - `weather_data.csv` – Hourly weather data with classified conditions
 - `traffic_congestion.csv` – Hourly traffic congestion data
 - `merged_dataset_preview.png` – Sample of the final merged dataset
-- `model_comparison_plot.png` – Accuracy comparison of Random Forest, Ridge, XGBoost models
-- `dashboard_forecast_table.png` – Forecast visualization from dashboard prototype
+- `model_comparison.png` – Accuracy comparison of Random Forest, Ridge, XGBoost models
+- `occupancy_dashboard.png` – Forecast visualization from dashboard prototype
 
 ## ⚙️ Technologies Used
 - Python (Pandas, Scikit-Learn, XGBoost, Random Forest, Ridge Regression)
